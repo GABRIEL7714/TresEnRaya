@@ -2,7 +2,6 @@
 #Declaramos las variables i,j como iteradores
 L= ["_", "_", "_", "_" ,"_" , "_", "_" ,"_" ,"_"]
 j = 0
-k = 0
 #Definimos la funcion imprimir_matriz, para mostrar la matriz del juego
 def imprimir_matriz():
 	i = 0
